@@ -35,7 +35,7 @@ import csv
 - Перейдите в папку
   - `cd citydata`
 - Запустите файл
-  - `python main.py
+  - `python main.py`
 
 ## Использование
 
